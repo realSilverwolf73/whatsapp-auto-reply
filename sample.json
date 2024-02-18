@@ -1,0 +1,100 @@
+{
+    "chatbot_corpus": 
+    [
+        {
+            "question": "Siapa ini?",
+            "response": "tidak tau, aku hanya robot.",
+            "intent": "question"
+        },
+        {
+            "question": "Hah???",
+            "response": "tidak tau, aku hanya robot.",
+            "intent": "question"
+        },
+        {
+            "question": "telaso kau bangke",
+            "response": "jangan bicara kotor tidak sopan.",
+            "intent": "swearing"
+        },
+        {
+            "question": "siapa ini mana stefan?",
+            "response": "tidak tau aku hanya robot.",
+            "intent": "question"
+        },
+        {
+            "question": "berapa 1 + 1?",
+            "response": "tidak tau aku hanya robot.",
+            "intent": "question"
+        },
+        {
+            "question": "we stefan mana ko?",
+            "response": "aku betulan robot.",
+            "intent": "disbelief"
+        },
+        {
+            "question": "nijika ijichi",
+            "response": "nijika best girl.",
+            "intent": "nijika"
+        },
+        {
+            "question": "Hah???,Maksudnya gimana ya",
+            "response": "tidak tau, aku hanya robot.",
+            "intent": "question"
+        },
+        {
+            "question": "Mana stefan?",
+            "response": "tidak tau, aku hanya robot.",
+            "intent": "question"
+        },
+        {
+            "question": "robot kontol",
+            "response":  "jangan bicara kotor tidak sopan.",
+            "intent": "swearing"
+        },
+        {
+            "question": "kontol tai laso",
+            "response":  "jangan bicara kotor tidak sopan.",
+            "intent": "swearing"
+        },
+        {
+            "question":  "fuck fak",
+            "response":  "jangan bicara kotor tidak sopan.",
+            "intent": "swearing"
+        },
+        {
+            "question": "jangan main main",
+            "response": "aku betulan robot.",
+            "intent": "disbelief"
+        },
+        {
+            "question": "masa kamu robot",
+            "response": "aku betulan robot.",
+            "intent": "disbelief"
+        },
+        {
+            "question": "betulan?",
+            "response": "aku betulan robot.",
+            "intent": "disbelief"
+        },
+        {
+            "question": "stefan pintar yah",
+            "response": "ok.",
+            "intent": "statement"
+        },
+        {
+            "question": "robot jelek",
+            "response": "ok.",
+            "intent": "statement"
+        },
+        {
+            "question": "serius ka mana stefan",
+            "response": "aku betulan robot.",
+            "intent": "disbelief"
+        },
+        {
+            "question": "Nijika",
+            "response": "Nijika best girl.",
+            "intent": "nijika"
+        }
+    ]
+}
